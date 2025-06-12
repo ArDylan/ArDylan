@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Archie Dylan</h1>
-<h3 align="center">
+<h1>Hi 👋, I'm Archie Dylan</h1>
+<h3>
   A graduate of Institut Teknologi Kalimantan with a solid background in web and mobile development.<br/>
   I specialize in building digital solutions using Laravel, Flutter, React, Kotlin, and Python.<br/>
   With experience in both frontend and backend, I focus on creating efficient, user-centered applications.
