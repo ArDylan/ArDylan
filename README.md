@@ -68,9 +68,10 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=ArDylan&show_icons=true&theme=default" width="48%" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArDylan&layout=compact&theme=default" width="48%" />
+  <img src="https://github-readme-stats-ardylan.vercel.app/api?username=ArDylan&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats-ardylan.vercel.app/api/top-langs/?username=ArDylan&layout=compact&theme=github_dark" width="48%" />
 </p>
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArDylan&theme=default" width="96%"/>
-</p> -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArDylan&theme=github-dark" width="96%"/>
+</p>
+
