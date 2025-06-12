@@ -68,8 +68,7 @@
 
 ### 📊 GitHub Statistic
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArDylan&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArDylan&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArDylan&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArDylan&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArDylan&theme=github_dark&utcOffset=8)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArDylan&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArDylan&theme=github_dark" width="48%" />
+</p>
